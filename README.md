@@ -1,7 +1,7 @@
 ### Olá eu sou Hitallo Moreira 👋
 
 
-- 🌱 Estudando Html, Css e JavaScript
+- 🌱 Trabalhando Html, Css e JavaScript
 
 <div align="center">
   <a href="https://github.com/Hitallo-moreira">
