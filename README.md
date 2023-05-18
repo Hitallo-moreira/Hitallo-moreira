@@ -1,7 +1,4 @@
-### Olá eu sou Hitallo Moreira 👋
-
-
-- 🌱 Trabalhando Html, Css e JavaScript
+- 🌱 Trabalhando Html, Css e JavaScript e Vue
 
 <div align="center">
   <a href="https://github.com/Hitallo-moreira">
